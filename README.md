@@ -36,3 +36,8 @@ Contributions are welcome! To contribute:
 3. Make your changes and commit them (git commit -m "Add new feature").
 4. Push to the branch (git push origin feature-branch).
 5. Open a Pull Request.
+
+
+
+/* samyak@EDITH:~$ sqlplus system/YourStrongPassword@//localhost:1521/XE
+*/
